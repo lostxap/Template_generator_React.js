@@ -1,0 +1,15 @@
+{
+  "name": "crt-reactx",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "create-react": "./cli.js"
+  }
+}
